@@ -7,7 +7,7 @@ branded with the enormous Input/Output warning. You are expected to
 be able to process at least 2.5MB of input data per second at runtime.
 
 Tested solution on https://www.codechef.com/problems/INTEST
-0.18s C++17
+0.05s C++17
 */
 
 // Many people are using #include <bits/stdc++.h>
